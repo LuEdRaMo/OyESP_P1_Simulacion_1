@@ -5,4 +5,4 @@ Práctica 1 - 3200 Phaeton
 
 Simulación 1
 
-Un seguimiento de la evolución de los elementos orbitales, así como de su argumento resonante con Venus, durante 10,000 años. 
+Un seguimiento de la evolución de los elementos orbitales de 3200 Phaeton, así como de su argumento resonante con Venus, durante 10,000 años. 
